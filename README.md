@@ -1,2 +1,0 @@
-# firstGitProject
-first
